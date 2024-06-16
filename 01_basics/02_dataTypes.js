@@ -11,8 +11,8 @@ console.log(3
     //bigInt
     //string
     //boolean
-    //null
-    //undefined
+    //null   //typeof null is Object.
+    //undefined   //typeof null is undefined.
     //symbol=> unique //probably will be using it while doing react, kindoff shows some uniquness
 
     //objects
